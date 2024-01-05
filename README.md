@@ -14,6 +14,7 @@
     <img width="258" alt="Screenshot 2023-12-01 at 11 21 23 PM" src="https://github.com/adityagaur0/add_App_Icon/assets/112656570/c6563d39-7a9b-49a6-a3b8-86c1cd8d753b">
 
    -  go to androidmanifest.xml file and change the appicon file name to you file name.
+   > android/app/src/main/AndroidManifest.xml and in line ***android:icon="@mipmap/ic_launcher">*** only replace ic_launcher to your logo name
 
 4. for ios:-
    - go to ios/runner and open in finder and replace Assets.xcassets folder
